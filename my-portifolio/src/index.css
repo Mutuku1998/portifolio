@@ -295,3 +295,11 @@ color: #333;
   .container{
 	text-align: center;
   }
+  .copy{
+	color:black;
+	font-size: medium;
+  }
+  .download{
+	background: green;
+	color: white;
+  }

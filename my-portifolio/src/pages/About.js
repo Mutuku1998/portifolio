@@ -28,7 +28,7 @@ const About = () => {
               </p>
 
             </div>
-      <button btnText="Download Resume" btnLink="#">
+      <button className="download">
       Download CV </button>
             </div>
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { MDBRow, MDBCol } from 'mdb-react-ui-kit';
-import {container,Row,Col} from "react-bootstrap";
+import { Row, Col } from "react-bootstrap";
 import image from '../images/image-2.jpg';
 function Contact(){
     return(
@@ -28,7 +28,7 @@ Kenya</p>
       <img src={image} width="700" height="400"/>
       </MDBCol>
     </MDBRow>
-    <div className="contactform">
+    <div className="contact_form">
         <h4>contact form</h4>
         <form>
         <Col lg="7"className='d-flex align-items-center'>

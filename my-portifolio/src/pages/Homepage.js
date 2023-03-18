@@ -48,7 +48,7 @@ export default function Homepage() {
       <a href="#" class="facebook"></a>
       <a href="#" class="skype"></a>
       <a href="#" class="flickr"></a>
-      <h6 class="m-0 mt-4 text-center text-black text-capitalize">Copyright &copy; 2023 designed by martin kavindu</h6>
+      <h6 className='copy'>Copyright &copy; 2023 designed by martin kavindu<b/></h6>
     </div>
   </section>
 </footer>
